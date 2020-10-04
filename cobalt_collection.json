@@ -1,0 +1,317 @@
+{
+  "count": 12,
+  "value": [
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/2"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=2"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2019-12-16T08:53:33.017Z",
+      "authorization": {
+        "clientId": "84a63973-8a10-4000-9277-4156902b7aa1",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "rGmHSFnlHUJ/D/7PSimINtPckVgkhYip5x3NRG8LXcdFN9ZT+BAsREG+AsHAT7TZaW+t0oJvZcBcdYGEXUC0mq48PJLtJs2hJvur3dcJ8cyL2LEJ6ZQLQGExVHBMAfwFMhrNNKY6hxksvo4HOF7/TMBL/URW1znyvFWFLc/KY8tSzAlzWZY2Bcod2YdFKTMXbTdECOq81oDhljgVkfJ+TkBJ7Ix8vrZuw7jlga96sd0M1YQKB0SzTMwkIUgyIcMqMz5gVRpn2yoyERb8YYKl6OK4AB44XYh4fAl3urnF/IGY9G1BG+RPRN8s4uNen0Hj0dYjS5DWBhIObEoET56O0w=="
+        }
+      },
+      "id": 2,
+      "name": "C862HSRBLD076",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/4"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=4"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-05-05T16:12:31.593Z",
+      "authorization": {
+        "clientId": "f36baf5c-41da-4464-9b7f-13b33140fc50",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "5t1NNDU9TZp1to0FwK1EZTqNAQCETBXCsgaTAfb38OmmZtNGvRZKybb77jz6Urf1d45L+4uEQnxl+MzOXFsX6VMkXk3mgzqB2HYAs7cH4LvlBBkApZxaF8CEJzr7nNxHTVOr/RM1u4b62usc7F8bO4JXdK3NCYTNaM747oe7cyLMucekdcPAjU+CXUENcjV+wieW2KSbDASWA4eXKNuilBL6NdEYAZAUD0xo7vZCSUUPb1slsZ1An/47sG+Xv2pzygqd23dK5kcn1tLPONJ0rfMpqQ0lP5XhVBv+zHUzgSPBl2r4A17uXT9MpH7CPJMqhu2G+yFBAVS19ESUaOXW6w=="
+        }
+      },
+      "id": 4,
+      "name": "C928UMYBLD068",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/5"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=5"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-05-19T13:55:58.14Z",
+      "authorization": {
+        "clientId": "d794d3ec-13c3-4b86-989d-2834f73a7895",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "wQT8OZpauNLSpgv0Qzgk77St63NmAValz8mG88XiIfdxQiN5Aigox3wxGcU++HwknKWwfL+wiXscRF6aR71r7crN9oS75h2SL7O4SC7T8FpdlJrdKiD9V8arQtPE0T5/3vlNHwB9MFsabe4+rMZvVxd9oy4I1/h8cEAtI5KT4FuvH4E5pRFpg2JMK1mTh/JFwb6x6F7JTSA2jSPus2G8v0SeDxfmiEDsqUVw5W9zSCNwNNhwhh7bh3uP+ixDU+KBjdjT8hfbKRjfDsKDb6lKe3mnfqMEqpF5wyl03Pkd+caiNYrScNPeVO0/nFFDCA3g57Be074Ghs4X2CsikTwJqw=="
+        }
+      },
+      "id": 5,
+      "name": "C398GDHBLD078",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/6"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=6"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-05-27T20:37:21.003Z",
+      "authorization": {
+        "clientId": "ce48fe25-f26e-4180-b1b5-9d17f47ebf62",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "qX+FNw70YD2ialMFZSNmv6mOySjHasgkUuRAymRcneKnIqHrcBW50Jxm7rkmPZT5Ik19pmf6rEUWa4dIVykb/HZGGwfZSzpsGSs5pftMo/Q0u4FjZmZEdS8EtzHt59H+pjz/z6aML6UPIcUfGiQDprMSpQViX36bqxzYRPzMb9/4Qr9+LMpuvJFEwiqUz8LfgbY7LKYfCui0opTs+/1Qjg9u7nIS3a8SKwR2sslIrGCMzPC6LS4W4KnK4cIqJQNzacEgHyk8M3J7M8IXMaYiflxr+GtccPar7fgd3tAlJd0GOp+xoz/mNwvVyvYjgEv1ckGcLz/xTkf0KLRKPeeJtw=="
+        }
+      },
+      "id": 6,
+      "name": "C249QYRCPASIE",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/7"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=7"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-06-16T12:32:40.41Z",
+      "authorization": {
+        "clientId": "29583204-c331-4e34-bb0c-71847a2dc2f6",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "w/ET4JG9PtyBnzI0+ZzdHFX69tneeN93oggj9GvpZUVSiulbYQJbWKPBiHPuxAVjMUkYIVJBLjooXa+sHqJ9NM4HxNwxapDl4PsuBEr+N9nbA+WmxEOzkO/y4XoXOKdmdt4KIowgdzscoxp17+VtLFZZKbZ3at1q/CgdI0pwk6T4m//U/vqvGtSSkzIV6m9BZWKn04Z489UGxUqElI5Ej+mqF3Vr2of0fsSB+Y9UeJbv5UCxZavi/KZJYZX5efcP94oamBXb6Q5X55HJBB7MLkeEzO/j4xsdndA9Vr4ZPru9jA880RnlGhw//OV4+Sn3bQZvV+AmbKlIGkkmz5icWQ=="
+        }
+      },
+      "id": 7,
+      "name": "C310QWMBLD083",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/12"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=12"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-07-10T11:34:06.18Z",
+      "authorization": {
+        "clientId": "04d60a6c-20cf-487d-b735-e34ad86066a8",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "mBZ933p/3BHChYbiW1xo5nPu5rOKm+Jy8ZtCVBrN5sDfpWw6tXI6cbQO3Ouif+TaUCWYfEEur8+XAKEI1fZL/uaISci/+cXPKdwCSkd74sM4GDqeBinvkjKpBzGP+49/Dsu0R/1ZBEMRfQ2CgXEzIWYvn0VrqAIPfzpELcxtOyn1qfI404g7RdV/TPXdoPlSQTyyl+NCBUl+nPaBqL/nq2VQ9mBM8EuIajvnZ4thexPwLOELIGlQN4NL+Akv7w2FbLMW1HTExCFYu0m7fCLNoXTbpx380EzlxVNoWJYPcYWHnVc4VSxCgcBfWjy5uwTukBgnDXxtw6+IcEZALFnatw=="
+        }
+      },
+      "id": 12,
+      "name": "C648QVYBLDCI",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/13"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=13"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-07-27T13:17:08.6Z",
+      "authorization": {
+        "clientId": "7e4b0f8e-a47b-42bb-8ea7-c5e003086a38",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "siAlSZ35KZLHm2z+P9P6Vrn0YuwoWak0CLFuBlAqOORI8kL+YInsVXiRHzOEOjG842KABVRWAJTaczhS9XTTTrEuoxeVwQlokp3SrFyNJYIROjUscFnZXuEbxZ4ZCIVSnJvkxn5qNg353rGoBin/yqb/1KQ1SXfZ7Mwy0zy4CdZMCONfMkNVsMhXmHygdB1mlPIcy7tz9Lh+o2p7/gpfUap8vC8ZllSEMQUJrZJ+lqHZK+9W13dXyKtbSwUTDOCRzCxv59LSKCqpQyJJfm1I8tSnZQhP+psmTeCYCgzcYeSWn2zqKVXoqFh18VKucrgyyzLk/p9Y+hq5K0ARRM2SzQ=="
+        }
+      },
+      "id": 13,
+      "name": "C792JUYCPASIE",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/17"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=17"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-07-29T08:54:10.62Z",
+      "authorization": {
+        "clientId": "efe5b810-5b1f-4eb9-bd55-30847d60151b",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "o1+bZI7egWqlXkw/yHLV5cOHNENjmaNb8GpsXL0fO9Uj4/g5/+gfgSD7ralxPZfPrkWlYxnQR8Y+VsOy6M0zg5ELO7ZmLW9WKsu2r/PTpNLDSd/Gaa7aaDWrJdzUopj7E7aGL1WbbomwceYES0ui3XPKgVcDw2ixDThhVH++b+HpuPhu9ms9kzt94BhXxoqzXZI7cha2CjxyYdTK/baor5IuXJl5HN1dLBrksvmSSTUJ4Yv4npyacOfSaZAfERnGPOE/p9mOd0f0H53bEc8J2GOZOzJh5ztwIgj3x+Bp2V8HKWEIfZf9Rsj3RtHEtE/e7GkvFuUtQky1damyBfiGqw=="
+        }
+      },
+      "id": 17,
+      "name": "C751VMHBLD054",
+      "version": "2.152.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/18"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=18"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-07-30T13:14:05.787Z",
+      "authorization": {
+        "clientId": "8f9efb96-fff8-40e7-946c-d200afb7c0b6",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "0pAbIQvP5ljYe7KhkSYQGMAPCGoCKPGrOf8ggnlr6tn2TZdww3VtM85D2wOb9cBwfwW4WuHchUNLGuZGPBffKXupGulGXhgw+l5HkcWSYthUbQrJ5ZYZmCKOyGg3DVyxxYhiRHAKK8GFzBK4PWeE4l244avk5N3XPMovySUO5V4Yx9uAdbOx7aeHKuwvzNfLPMYCTQ5vgrRITdGoZ9xBXypXXly7bpU1JFm39hJOFRE1oZxZ3VTtXhIc1XUdPnyA6cpcEyEqHfTelg+nNz1kIsgkbDGh+tCOnP7gFuoWWMQidQWT+6aFcz21GpftO8dKZoKTX2q0xaE9TWu2i5tqhw=="
+        }
+      },
+      "id": 18,
+      "name": "C838XVBBLDCI",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/19"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=19"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-08-04T09:00:54.023Z",
+      "authorization": {
+        "clientId": "cc461fbf-3db4-4d0d-9b03-e306ffcb9aa7",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "swDRFQ1D0H2RrfFcKGcyhGR0IZfCIAOLFvjJG800lKLHGdfz4teFGsoQYOPU3JFNSZ1fL4asKvY7gsK2YcDuw6YQYQntzROufws1PmsjT/x1NM2zbcdKBOjq1V6SqZnCgytB3MnX8x7nDPQSC7BRqf/xloajXnZm4xS9jZdf8r8KSwSm3fCzA/bgdYrYEh+6ytLnpG/Qk2ALSTnITzlyOYqOCDlJNYlXjH4HZaXP6gS81Z/iDarCUywYcDG7Zz0gf6pvrwdShFD1kS8LJ18pBWnGcAA9ujmvemgR7Q0C/49+Odc66t1EqZ0It5B4xHI5Tb9NMiN3sNSa7y1kGAMkEw=="
+        }
+      },
+      "id": 19,
+      "name": "C808CUJCPASIE",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/20"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=20"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-08-07T09:58:20.04Z",
+      "authorization": {
+        "clientId": "35cd5989-f8f4-4155-924f-7422d76cc3d3",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "pLm7HwTsUYVQMdSikLeFsJIXnXFrhVPpJAJjwJyIv+LDuObAI9BHe8Uvk0wIVsoDueF127YXRsrNtVQGWLwt48MKK8xxdlTwz0ULjT6T/s4TTcGA3PmNQGm3ZjscZKr9GunRtJJqBp3aFPd0JBf8qxi4mn680tokGDlgnJPDL8xvX2tvNnBRYI/Czk9lmOpnOE9Fjau+wpt43OxkSE2cUuGX7djys62uK5bCtydBdVKseLvIax3KgkrG1mn3E/XwBp1b1UhNCk+2y18ZkijM2H2gHivKBXR10e2oIKGUwL0wqAze52jLVQVHJE4r33IE3y+dBoZ4ubt969rU5Et8NQ=="
+        }
+      },
+      "id": 20,
+      "name": "C228PXTBLDCI",
+      "version": "2.153.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    },
+    {
+      "_links": {
+        "self": {
+          "href": "https://azurenpt.int.thomson.com/tfs/_apis/distributedtask/pools/2/agents/21"
+        },
+        "web": {
+          "href": "https://azurenpt.int.thomson.com/tfs/Cobalt_Collection/_admin/_AgentPool#_a=agents&poolId=2&agentId=21"
+        }
+      },
+      "maxParallelism": 1,
+      "createdOn": "2020-08-11T08:18:05.203Z",
+      "authorization": {
+        "clientId": "c57f9f22-8a60-4165-baef-a0c283e5f351",
+        "publicKey": {
+          "exponent": "AQAB",
+          "modulus": "t7ftLCAeKdQ5+qNrMhgCp6tSl7AEgwPtVgPrOmsCKoTFLshxB9vaxt2aQDCym8IshsRsVXrmyV01C1n9YWlxOyXceLB0cFhESE/Qr8NYJgP4fxl788GEbvYl86d2JliCfsu3VeQKLVoUafHBNLbNVFtj+uX1ELJ3KLsbGvO74+AALxZWczyciRsL550qTOnR/k67Keyw/9AINrEXufWcSd6pFMJcB1ZD290SKo0mi/1HBfULXr7X/63F8a8HGUg67TJFuo3XO4HzgKjeoOd3XOwSJZX2T8JRu3Y1WSrq6KUnbEw1tD/b+BPnhL43yuMLf13/kRPZkRZzLgiFly+hPw=="
+        }
+      },
+      "id": 21,
+      "name": "C591JBXBLDCI",
+      "version": "2.152.1",
+      "osDescription": "Microsoft Windows 6.3.9600 ",
+      "enabled": true,
+      "status": "online",
+      "provisioningState": "Provisioned"
+    }
+  ]
+}
